@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wsi-2022/11-team-git/issues"
   },
-  "homepage": "https://github.com/wsi-2022/11-team-git#readme"
+  "homepage": "https://github.com/wsi-2022/11-team-git#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
