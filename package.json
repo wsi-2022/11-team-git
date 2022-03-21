@@ -1,0 +1,20 @@
+{
+  "name": "11-team-git",
+  "version": "1.0.0",
+  "description": "Demos for PRs, handling conflicts, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsi-2022/11-team-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsi-2022/11-team-git/issues"
+  },
+  "homepage": "https://github.com/wsi-2022/11-team-git#readme"
+}
