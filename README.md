@@ -1,2 +1,3 @@
 # 11-team-git
-Demos for PRs, handling conflicts, etc.
+
+This README should contain all of our API documentation, eventually.
