@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wsi-2022/11-team-git#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
   }
 }
