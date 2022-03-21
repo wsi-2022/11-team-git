@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/profstolley/11-team-git.git"
+    "url": "git+https://github.com/wsi-2022/11-team-git.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/profstolley/11-team-git/issues"
+    "url": "https://github.com/wsi-2022/11-team-git/issues"
   },
-  "homepage": "https://github.com/profstolley/11-team-git#readme"
+  "homepage": "https://github.com/wsi-2022/11-team-git#readme"
 }
